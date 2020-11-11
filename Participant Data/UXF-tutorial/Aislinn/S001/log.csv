@@ -1,0 +1,6 @@
+timestamp,log_type,message
+0,Log,Loaded: C:\Users\aisli\OneDrive\Documents\GitHub\Senior Project\UXF-Tutorial\Participant Data\participant_list.csv
+3.272436,Log,Loaded: C:\Users\aisli\OneDrive\Documents\GitHub\Senior Project\UXF-Tutorial\Participant Data\participant_list.csv
+13.00305,Log,Updating: C:\Users\aisli\OneDrive\Documents\GitHub\Senior Project\UXF-Tutorial\Participant Data\participant_list.csv
+19.76548,Exception,"ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index"

@@ -1,0 +1,11 @@
+directory,experiment,ppid,session_num,trial_num,block_num,trial_num_in_block,start_time,end_time,angle,outcome,time,cursor_movement_filename
+UXF-tutorial/Aislinn/S001,UXF-tutorial,Aislinn,1,1,1,1,14.16364,14.6,11.41979,miss,1,cursor_movement_T001.csv
+UXF-tutorial/Aislinn/S001,UXF-tutorial,Aislinn,1,2,1,2,18.00329,19.00572,,tooslow,1,cursor_movement_T002.csv
+UXF-tutorial/Aislinn/S001,UXF-tutorial,Aislinn,1,3,1,3,19.76548,22.32,1.587083,hit,,cursor_movement_T003.csv
+UXF-tutorial/Aislinn/S001,UXF-tutorial,Aislinn,1,4,1,4,23.14462,24.04748,,tooslow,0.9,cursor_movement_T004.csv
+UXF-tutorial/Aislinn/S001,UXF-tutorial,Aislinn,1,5,1,5,25.10716,26.04,0.1398823,hit,1,cursor_movement_T005.csv
+UXF-tutorial/Aislinn/S001,UXF-tutorial,Aislinn,1,6,1,6,27.42552,28.06,-0.6351982,hit,0.9,cursor_movement_T006.csv
+UXF-tutorial/Aislinn/S001,UXF-tutorial,Aislinn,1,7,1,7,28.98481,29.64,-4.115944,miss,1,cursor_movement_T007.csv
+UXF-tutorial/Aislinn/S001,UXF-tutorial,Aislinn,1,8,1,8,31.10198,31.58,-0.8699816,hit,0.9,cursor_movement_T008.csv
+UXF-tutorial/Aislinn/S001,UXF-tutorial,Aislinn,1,9,1,9,32.44672,33.24791,,tooslow,0.8,cursor_movement_T009.csv
+UXF-tutorial/Aislinn/S001,UXF-tutorial,Aislinn,1,10,1,10,34.48212,35.18246,,tooslow,0.6999999,cursor_movement_T010.csv
